@@ -1,5 +1,5 @@
 # لینک سوال
-# https://quera.ir/problemset/contest/2659/
+# https://quera.ir/problemset/contest/8940/%D8%AA%D9%82%D9%84%D8%A8%20%D9%85%D9%85%D9%86%D9%88%D8%B9!
 
 # خوندن ورودی و جدا کردنش
 line1 = input()
